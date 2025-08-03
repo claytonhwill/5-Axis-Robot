@@ -1,0 +1,42 @@
+[
+    {
+        "name": "A1",
+        "pin": 0,
+        "min_value": -135,
+        "max_value": 135,
+        "home_value": 0,
+        "sensor_addr": 0
+    },
+    {
+        "name": "A2",
+        "pin": 1,
+        "min_value": -135,
+        "max_value": 135,
+        "home_value": 0,
+        "sensor_addr": 1
+    },
+    {
+        "name": "A3",
+        "pin": 2,
+        "min_value": -90,
+        "max_value": 90,
+        "home_value": 0,
+        "sensor_addr": 2
+    },
+    {
+        "name": "A4",
+        "pin": 3,
+        "min_value": -90,
+        "max_value": 90,
+        "home_value": 0,
+        "sensor_addr": 3
+    },
+    {
+        "name": "A5",
+        "pin": 4,
+        "min_value": -90,
+        "max_value": 90,
+        "home_value": 0,
+        "sensor_addr": 4
+    }
+]
